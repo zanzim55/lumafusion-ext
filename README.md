@@ -1,2 +1,3 @@
 # lumafusion-ext
-fintopio
+play
+instalasion 
