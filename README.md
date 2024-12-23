@@ -2,3 +2,4 @@
 play
 instalasion 
 in progress
+loading
