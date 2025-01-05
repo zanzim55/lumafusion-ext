@@ -8,3 +8,4 @@ data on burning
 loading
 lfg
 go
+run
