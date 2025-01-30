@@ -7,6 +7,7 @@ create the meta
 data on burning
 loading
 lfg
+a
 go
 run
 a
