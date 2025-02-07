@@ -10,7 +10,7 @@ lfg
 aa
 aa
 aaa
-a
+aa
 goa
 run
 a
