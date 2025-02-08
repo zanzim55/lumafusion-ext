@@ -1,6 +1,6 @@
 new lumafusion-ext
 play
-instalasion 
+instalasion 1
 in progress
 loading
 create the meta
