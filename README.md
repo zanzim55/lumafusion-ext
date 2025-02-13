@@ -12,7 +12,7 @@ aa
 aaaaa
 aa
 goaa
-run
+runa
 a
 a
 a
